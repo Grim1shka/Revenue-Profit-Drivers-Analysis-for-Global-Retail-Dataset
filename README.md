@@ -40,6 +40,7 @@
 Дополнительные метрики:
 - Profit per Order: 58.6
 - Общая маржа: 11.6%
+<img width="1339" height="747" alt="image" src="https://github.com/user-attachments/assets/8925e55e-f424-48ea-8e29-0fde0bd3b6f4" />
 
 ---
 
