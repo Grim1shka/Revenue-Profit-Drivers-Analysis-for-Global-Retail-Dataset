@@ -56,6 +56,7 @@
 - Technology — наиболее прибыльная категория с высокой эффективностью
 - Office Supplies — стабильный volume-driven сегмент
 - Furniture — проблемная категория с низкой маржинальностью
+<img width="1337" height="738" alt="image" src="https://github.com/user-attachments/assets/316789e6-3a1d-4db5-bd3a-7e0c0f235c5e" />
 
 ---
 
@@ -91,6 +92,8 @@
 | Bookcases | 161K | 1.46M |
 | Tables | -64K | 757K |
 | Furnishings | 46K | 385K |
+
+<img width="1338" height="753" alt="image" src="https://github.com/user-attachments/assets/dc768df1-4498-4414-a3c5-9155805c5dfd" />
 
 ---
 
